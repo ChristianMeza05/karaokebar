@@ -1,1 +1,2 @@
 El Área de clientes proporciona un espacio único centralizado para cada cliente, pudiendo gestionar su cuenta, solicitar asistencia, realizar pedidos, ver anuncios y más. 
+esta es una modificacion de mi area del cliente
