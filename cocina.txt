@@ -1,2 +1,4 @@
 Habitación de una casa u otro edificio que dispone de instalaciones adecuadas para cocinar.
 esta es una modificaicon del area de cocina
+
+esta es la segunda modificion del branch de remodelacion
